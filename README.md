@@ -1,0 +1,1 @@
+# spotiguessr-clone
