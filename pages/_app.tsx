@@ -7,7 +7,7 @@ export default function App({ Component, pageProps }: AppProps) {
   return (
     <>
       <div className="flex flex-col items-center min-h-screen">
-        <h1 className="text-green-500 font-bold pt-10 text-8xl">Spotiguess</h1>
+        <h1 className="text-green-500 font-bold pt-8 text-8xl pb-8 bg-[#0a0a0a] rounded-xl">Spotiguess</h1>
         <div className="fixed top-8 right-8">
           <Link href='/'><Button text={"Home"} /></Link>
         </div> 
